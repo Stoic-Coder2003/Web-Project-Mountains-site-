@@ -1,0 +1,36 @@
+body{
+    position: relative;
+    width: 100vw;
+    height: 1200px;
+
+    /* BG */
+
+    background: #0B1D26;
+    /* Shadow */
+
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
+}
+
+.image1{
+    position: absolute;
+    width: 1920px;
+    height: 1513px;
+    left: 0;
+    top: -400px;
+}
+
+.image2{
+    position: absolute;
+    width: 1920px;
+    height: 1422px;
+    left: 0;
+    top: 464px;
+}
+
+.image3{
+    position: absolute;
+    width: 1920px;
+    height: 926px;
+    left: 0;
+    top: 768px;
+}
